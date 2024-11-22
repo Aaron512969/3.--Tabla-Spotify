@@ -1,0 +1,41 @@
+main {
+    width: 100%;
+   
+}
+*{
+    border-collapse: collapse;
+}
+.tabla1 {
+    text-align: center;
+    width: 70%;
+    background-color: black;
+    color: white;
+}
+
+.tr1 {
+    background-color: rgb(83, 97, 87);
+    
+}
+
+.izquierda {
+    float: left;
+}
+
+td {
+    color: gray;
+}
+
+.blanco1{
+    color: white;
+}
+
+.gray1{
+    color: gray;
+}
+.hovers:hover {
+    background-color: rgb(44, 44, 44);
+}
+
+.numeros {
+    float: center;
+}
